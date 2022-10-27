@@ -1,0 +1,7 @@
+—Who is a fullstack developer?
+
+A full-stack developer helps build and maintain both the front-end and the back-end of a website. This type of software developer can perform front-end and back-end operations plus has a comprehensive knowledge of different programming skills and language. 
+
+— What are tools and languages used by a fullstack developer?
+
+A fullstack developer must have a grasp of programming languages and frameworks like html, css, javaScript, React.js, Angular.js, Node.js, Python Django, Java Spring, PHP, MySQL, AWS, Docker, Git, Github, etc.
